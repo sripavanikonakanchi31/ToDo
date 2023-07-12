@@ -3,6 +3,8 @@
 
 
   let  books = 20;
+  let pens = 200;
+  
 
 let results = pens + books;
 
