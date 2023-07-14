@@ -43,3 +43,13 @@ if(marks <=56 && collage === "chaitanya"){
 }else{
   console.log("you are a good student")
 }
+
+//for
+
+let s = 1;
+
+for (s = 1; s < 8; s ++){
+
+  console.log(s);
+}
+

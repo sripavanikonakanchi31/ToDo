@@ -4,3 +4,22 @@ h1 {
     text-align: center;
     padding: 20px;
 }
+
+.monitor {
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    box-shadow: 0 0 2px 1px black;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 2rem;
+    line-height: 50px;
+    padding: 0 8px;
+}
+
+.buttons-container {
+    width: 50%;
+    margin: 20px auto;
+    height: 200px;
+    border: 1px solid black;
+}
